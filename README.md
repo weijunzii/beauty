@@ -40,3 +40,7 @@ index.js 里的 detectImage 函数可以注释掉或者直接去掉，实际上�
 
 - [ ] 把 readme 写好，未完成; 
 - [ ] 识别后的分享海报，未完成; 
+
+另一个小程序『恶搞二维码』已经开源了，要不点击[查看一下说明](https://mp.weixin.qq.com/s/W_Mj5_TjSSJjoe6kfDpU5w)，然后再看看代码？
+
+> [https://github.com/weijunzii/Spoof-QRcode](https://github.com/weijunzii/Spoof-QRcode )
